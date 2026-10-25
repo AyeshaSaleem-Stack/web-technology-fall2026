@@ -23,4 +23,4 @@ Because an ID selector has more priority than class selector like .note. So the 
 ## Q2. What is the difference between `padding` and `margin`? Which one gets the card's background colour?
 
 Your answer:
-Padding is the space between content and border of a card while margin is the space outside the border. Padding has the same background color as the card but margin does not have the background color
+Padding is the space between content and border of a card while margin is the space outside the border. Padding has the same background color as the card but margin does not have the background color.
